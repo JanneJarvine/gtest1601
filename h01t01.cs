@@ -15,7 +15,7 @@ namespace T1
                 switch (luku)
                 {
                     case 1: Console.WriteLine("Yksi"); break;
-                    case 2: Console.WriteLine("Kaksi"); break;
+                    case 2: Console.WriteLine("KA123123KSI"); break;
                     case 3: Console.WriteLine("Kolme"); break;
                     default: Console.WriteLine("Joku muu luku"); break;
 
